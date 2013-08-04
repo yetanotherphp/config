@@ -1,0 +1,4 @@
+config
+======
+
+Object-oriented configuration
